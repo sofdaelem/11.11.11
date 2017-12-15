@@ -1,0 +1,14 @@
+body{
+  background-image: url(https://c.pxhere.com/photos/1b/12/alone_angry_black_and_white_boy_child_close_up_dirty_face-992551.jpg!d);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+nav{
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px;
+  margin-left: 40px;
+  display: inline-block;
+  color: white;
+}
